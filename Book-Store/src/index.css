@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.active{
+    color: tomato;
+    border-bottom: 2px solid tomato;
+
+
+}
+.bagImg1{
+    background: url('/src/assets/image/Banner/banner-1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bagImg2{
+    background: url('/src/assets/image/Banner/banner-2.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bagImg3{
+    background: url('/src/assets/image/Banner/banner-3.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bagImg4{
+    background: url('/src/assets/image/Banner/banner-4.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bagImg5{
+    background: url('/src/assets/image/Banner/banner-5.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bagImg6{
+    background: url('/src/assets/image/Banner/banner-6.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
